@@ -1,0 +1,41 @@
+body {
+    background: repeating-linear-gradient(rgba(220, 20, 60, .95), rgba(255, 250, 205, .5)100%);
+    font-family: "Bell MT";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.d-flex {
+    color: #00BFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.media {
+    font-family: "OCR A";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.fas {
+    color: #FFD700;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.far {
+    color: #FFD700;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.message {
+    color: #FF0000;
+    font-family: "Cooper";
+    font-size: 35px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
