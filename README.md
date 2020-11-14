@@ -7,4 +7,4 @@ A requisição foi feita com base no site CoinMarketCap, na area para devs:
 
 <h2>Observação:</h2>
 
- - Não autorizo o uso da minha API key que consta no projeto, seja para fins de estudo ou publicação.
+ _Não autorizo o uso da minha API key que consta no projeto, seja para fins de estudo ou publicação.
